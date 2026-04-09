@@ -10,3 +10,22 @@ svg {
 	width: 100vw;
 	height: 100vh;
 }
+
+circle {
+	fill: rgb(239, 231, 76);
+}
+
+body {
+	background-color: rgb(55, 55, 55);
+}
+
+.target {
+	fill: white;
+}
+.obstacle {
+	fill: rgb(226, 97, 97);
+}
+
+image {
+	image-rendering: pixelated;
+}
